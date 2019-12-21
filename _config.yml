@@ -9,9 +9,9 @@ title:              DS4PS
 description:        Intro. course in data-drive management
 
 # Site subpath, e.g. /blog
-url :               "https://ds4ps.github.io"
-baseurl:            "/cpp-526-fall-2019"
-course_url:         "http://ds4ps.org/cpp-526-fall-2019/"
+url :               "https://cssearcy.github.io"
+baseurl:            "/AYS-Coding-in-R-Spr-2020"
+course_url:         "https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
