@@ -51,20 +51,16 @@ header:
 
 # Default author settings
 author:
-    name:       Jesse Lecy
-    github:     lecy   # Github username for avatar
+    name:       Cynthia Searcy
+    github:     cssearcy   # Github username for avatar
 
 github_info:
-    username:          DS4PS # Github location of the course
+    username:          cssearcy # Github location of the course
     branch:            master
-    website-repo:      cpp-526-fall-2019
-    course-repo:       cpp-526-fall-2019
+    website-repo:      AYS-Coding-in-R-Spr-2020
+    course-repo:       AYS-Coding-in-R-Spr-2020
 
-# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
-authors:
-    jesse:
-        name:       Jesse Lecy
-        github:     lecy    # Github username for avatar
+
 
 # Social icons displayed in footer
 social:
