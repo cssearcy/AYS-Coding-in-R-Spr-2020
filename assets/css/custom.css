@@ -47,22 +47,17 @@ header {
     color: white;
 }
 
-footer {
-    background-color: #0039a6; 
-    /* background-color: #f08d14;  #ffaf4d; #ff8c00; */
-    color: white; /* rgb(255,255,255); */
-    margin-top: 0px;
-}
 
 
-.uk-navbar-nav.li.a
-{
-    color: white;
+.uk-navbar-nav .li .a {
+    color: white !important;
  }
 
-element.style {
-    color: white;
+header .uk-logo {
+ color: white;
 }
+
+
 
  i#github_icon {
     color: white; 
@@ -76,9 +71,22 @@ element.style {
     margin-right: 5em;
  }
 
+.uk-navbar-container {
+    color: white;
+}
+
+
+
+footer {
+    background-color: #0039a6; 
+    /* background-color: #f08d14;  #ffaf4d; #ff8c00; */
+    color: white !important; /* rgb(255,255,255); */
+    margin-top: 0px;
+}
+
  td#footer {
     padding-left:6em;
-    color: white; /* black; */
+    color: white !important; /* black; */
     align-items: center;
     align-self: center;
 }
