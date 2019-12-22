@@ -1,3 +1,90 @@
+
+/* HEADER BACKGROUND COLOR */
+
+#default_nav {
+    /* background-color:rgb(38, 184, 239); */
+    background-color: #0039a6; 
+    font-size: 1.7em;
+    color: white;
+}
+
+
+/* HEADER NAVIGATION TEXT COLOR */
+
+/*
+.uk-navbar-nav li a {
+    color: white !important;
+ }
+*/
+
+/*
+header uk-navbar-left a, i {
+    color: white !important;
+ }
+*/
+
+/*
+.uk-navbar-nav li a#list {
+    color: white !important;
+ }
+*/
+
+
+.uk-navbar a, i {
+    color: white;
+}
+
+header .uk-logo, a, i {
+ color: white;
+}
+
+i#github_icon {
+    color: white; 
+    font-size: 1.2em;
+ }
+
+img#logo {
+    width: 70%; 
+    height: 50%;
+    margin-left: 2em;
+    margin-right: 5em;
+ }
+
+
+
+
+/* FOOTER BACKGROUND COLOR */
+
+footer {
+    background-color: #0039a6; 
+    /* background-color: #f08d14;  #ffaf4d; #ff8c00; */
+    color: white !important; /* rgb(255,255,255); */
+    margin-top: 0px;
+}
+
+.footer-text td, a {
+    color: white !important; 
+}
+
+
+td#footer {
+    padding-left:6em;
+    color: white; /* black; */
+    align-items: center;
+    align-self: center;
+}
+
+td#footer a {
+    color: white; /* black; */
+}
+
+
+
+
+
+
+/* OTHER ELEMENTS */
+
 button {
     border-radius: 5px;
     border-color: darkgray;
@@ -38,89 +125,6 @@ h4 {
 
 
 
-
-/* HEADER BACKGROUND COLOR */
-
-#default_nav {
-    /* background-color:rgb(38, 184, 239); */
-    background-color: #0039a6; 
-    font-size: 1.7em;
-    color: white;
-}
-
-
-/* HEADER NAVIGATION TEXT COLOR */
-
-/*
-.uk-navbar-nav li a {
-    color: white !important;
- }
-*/
-
-/*
-header uk-navbar-left a, i {
-    color: white !important;
- }
-*/
-
-/*
-.uk-navbar-nav li a#list {
-    color: white !important;
- }
-*/
-
-/*
-.uk-navbar a, i {
-    color: white;
-}
-*/
-
-header .uk-logo, a, i {
- color: white;
-}
-
-i#github_icon {
-    color: white; 
-    font-size: 1.2em;
- }
-
-img#logo {
-    width: 70%; 
-    height: 50%;
-    margin-left: 2em;
-    margin-right: 5em;
- }
-
-
-
-
-/* FOOTER BACKGROUND COLOR */
-
-footer {
-    background-color: #0039a6; 
-    /* background-color: #f08d14;  #ffaf4d; #ff8c00; */
-    color: white !important; /* rgb(255,255,255); */
-    margin-top: 0px;
-}
-
-.footer-text {
-    color: white !important; 
-}
-
-
-td#footer {
-    padding-left:6em;
-    color: white; /* black; */
-    align-items: center;
-    align-self: center;
-}
-
-td#footer a {
-    color: white; /* black; */
-}
-
-
-
 button#dataset {
     border-radius: 5px;
     background-color: transparent;
@@ -154,11 +158,10 @@ a{
 i {
     font-style: italic;
     font-size: 0.9em;
-    color: #007aa6;
 }
 
 button i {
-    color: red;
+    color: #007aa6;
 }
 
 
