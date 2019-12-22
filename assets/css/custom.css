@@ -131,6 +131,7 @@ p.i {
 
 a{
     color: #0061a6; 
+    font-weight: bold;
     text-decoration: underline; 
     target-name: new;
     target-new: tab;
