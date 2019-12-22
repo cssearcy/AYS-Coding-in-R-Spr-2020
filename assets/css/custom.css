@@ -53,11 +53,18 @@ header {
     color: white !important;
  }
 
-.uk-navbar-nav li a#list {
+.uk-navbar-left a, i {
     color: white !important;
  }
 
-header uk-logo {
+/*
+.uk-navbar-nav li a#list {
+    color: white !important;
+ }
+*/
+
+
+header .uk-logo {
  color: white;
 }
 
