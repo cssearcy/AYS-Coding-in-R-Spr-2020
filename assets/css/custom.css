@@ -17,7 +17,11 @@
 
 /* HEADER NAVIGATION TEXT COLOR */
 
-div.uk-navbar a, i {
+div.uk-navbar a {
+    color: white !important;
+}
+
+div.uk-navbar i {
     color: white !important;
 }
 
