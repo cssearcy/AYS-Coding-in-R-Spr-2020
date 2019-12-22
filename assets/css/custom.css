@@ -81,6 +81,7 @@ td#footer {
     padding-left:6em;
     align-items: center;
     align-self: center;
+    text-decoration: none; 
 }
 
 div.footer-text {
