@@ -51,13 +51,17 @@ h4 {
 
 /* HEADER NAVIGATION TEXT COLOR */
 
+/*
 .uk-navbar-nav li a {
     color: white !important;
  }
+*/
 
-.uk-navbar-left a, i {
+/*
+header uk-navbar-left a, i {
     color: white !important;
  }
+*/
 
 /*
 .uk-navbar-nav li a#list {
@@ -65,7 +69,13 @@ h4 {
  }
 */
 
-header .uk-logo {
+/*
+.uk-navbar a, i {
+    color: white;
+}
+*/
+
+header .uk-logo, a, i {
  color: white;
 }
 
@@ -81,9 +91,6 @@ img#logo {
     margin-right: 5em;
  }
 
-.uk-navbar-container {
-    color: white;
-}
 
 
 
