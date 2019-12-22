@@ -83,7 +83,10 @@ td#footer {
     align-self: center;
 }
 
-
+div.footer-text {
+    vertical-align: middle;
+    display:table-cell;
+}
 
 
 
