@@ -3,11 +3,18 @@ $linkcolor: red;
 
 /* HEADER BACKGROUND COLOR */
 
+/*
 #default_nav {
-    /* background-color:rgb(38, 184, 239); */
     background-color: #0039a6; 
     font-size: 1.7em;
     color: white;
+}
+*/
+
+.uk-navbar-container {
+    /* background-color:rgb(38, 184, 239); */
+    background-color: #0039a6; 
+    font-size: 1.7em;
 }
 
 
