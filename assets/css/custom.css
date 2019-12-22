@@ -1,3 +1,5 @@
+$linkcolor: red;
+
 
 /* HEADER BACKGROUND COLOR */
 
@@ -124,7 +126,7 @@ p.i {
 /* HYPERLINK AND SCHEDULE BUTTON COLORS */
 
 a{
-    color: #0061a6;
+    color: $linkcolor; /* #0061a6; */
     text-decoration: underline; 
     target-name: new;
     target-new: tab;
