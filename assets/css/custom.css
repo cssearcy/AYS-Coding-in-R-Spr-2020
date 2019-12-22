@@ -60,6 +60,9 @@ footer {
     color: white;
  }
 
+element.style {
+    color: white;
+}
 
  i#github_icon {
     color: white; 
