@@ -77,6 +77,7 @@ footer {
 div.footer-text a {
     color: white !important; 
     text-decoration: none; 
+    font-weight: normal;
 }
 
 td#footer {
