@@ -69,8 +69,8 @@ footer {
     margin-top: 0px;
 }
 
-div.footer-text td, a {
-    color: white; 
+div.footer-text td {
+    color: white !important; 
 }
 
 td#footer {
