@@ -95,13 +95,16 @@ footer {
     margin-top: 0px;
 }
 
- td#footer {
+td#footer {
     padding-left:6em;
     color: white !important; /* black; */
     align-items: center;
     align-self: center;
 }
 
+td#footer a {
+    color: white !important; /* black; */
+}
 
 
 
