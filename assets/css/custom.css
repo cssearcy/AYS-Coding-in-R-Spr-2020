@@ -65,11 +65,11 @@ footer {
     margin-top: 0px;
 }
 
-.footer-text td {
+div.footer-text td {
     color: white; 
 }
 
-.footer-text a {
+div.footer-text a {
     color: white; 
 }
 
@@ -80,11 +80,6 @@ td#footer {
     align-self: center;
 }
 
-/*
-td#footer a {
-    color: white; /* black; */
-}
-*/
 
 
 
