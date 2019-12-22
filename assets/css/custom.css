@@ -83,23 +83,7 @@ td#footer a {
 
 
 
-/* OTHER ELEMENTS */
-
-button {
-    border-radius: 5px;
-    border-color: darkgray;
-    background-color: transparent;
-    color: #26b8ef;
-}
-
-
-
-table#t02 th {
-    font-size: 1.5em;
-    color: #5e5e5e;
-    background: transparent;
-    text-align: left;
-}
+/* COMMON TEXT ELEMENT STYLES */
     
 h1, h2 {
     padding-bottom: .2em;
@@ -122,6 +106,54 @@ h4 {
     margin: 1em 0 1rem;
 }
 
+i {
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+p.i {
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+
+
+
+/* HYPERLINK AND SCHEDULE BUTTON COLORS */
+
+a{
+    color: #0061a6;
+    text-decoration: underline; 
+    target-name: new;
+    target-new: tab;
+}
+
+button i {
+    color: #0061a6;
+}
+
+
+
+
+
+/* OTHER ELEMENTS */
+
+button {
+    border-radius: 5px;
+    border-color: darkgray;
+    background-color: transparent;
+    color: #26b8ef;
+}
+
+
+
+table#t02 th {
+    font-size: 1.5em;
+    color: #5e5e5e;
+    background: transparent;
+    text-align: left;
+}
+
 
 
 
@@ -139,30 +171,9 @@ i#general {
    font-style: italic; 
 }                         
 
-p.i {
-    font-style: italic;
-    font-size: 0.9em;
-}
 
 
 
-/* hyperlink and button colors */
-
-a{
-    color: #007aa6;
-    text-decoration: underline; 
-    target-name: new;
-    target-new: tab;
-}
-
-i {
-    font-style: italic;
-    font-size: 0.9em;
-}
-
-button i {
-    color: #007aa6;
-}
 
 
 
