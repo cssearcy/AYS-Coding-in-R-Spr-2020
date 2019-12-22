@@ -38,12 +38,6 @@ header:
   url: textbook/
 - title: Resources
   url: resources/
-- title: Yellowdig
-  url: https://canvas.asu.edu/courses/29528/assignments/656491
-# - title: Canvas
-#  url: https://canvas.asu.edu/courses/29528
-- title: Review Sessions
-  url: https://ds4ps.org/cpp-526-fall-2019/review-sessions/
 - title: Get Help
   url: help/
 
@@ -87,7 +81,7 @@ disqus:
     shortname:      1234
 
 # Google analytics code, get your code here https://www.google.com/analytics/
-google_analytics:   UA-123960540-3
+google_analytics:   
 
 # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 google_maps_api_key:
