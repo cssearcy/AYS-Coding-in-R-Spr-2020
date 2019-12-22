@@ -36,9 +36,10 @@ h4 {
 }
 
 
-header {
-    color: white;
-}
+
+
+
+/* HEADER BACKGROUND COLOR */
 
 #default_nav {
     /* background-color:rgb(38, 184, 239); */
@@ -48,6 +49,7 @@ header {
 }
 
 
+/* HEADER NAVIGATION TEXT COLOR */
 
 .uk-navbar-nav li a {
     color: white !important;
@@ -63,19 +65,16 @@ header {
  }
 */
 
-
 header .uk-logo {
  color: white;
 }
 
-
-
- i#github_icon {
+i#github_icon {
     color: white; 
     font-size: 1.2em;
  }
 
- img#logo {
+img#logo {
     width: 70%; 
     height: 50%;
     margin-left: 2em;
@@ -88,12 +87,19 @@ header .uk-logo {
 
 
 
+/* FOOTER BACKGROUND COLOR */
+
 footer {
     background-color: #0039a6; 
     /* background-color: #f08d14;  #ffaf4d; #ff8c00; */
     color: white !important; /* rgb(255,255,255); */
     margin-top: 0px;
 }
+
+.footer-text {
+    color: white !important; 
+}
+
 
 td#footer {
     padding-left:6em;
