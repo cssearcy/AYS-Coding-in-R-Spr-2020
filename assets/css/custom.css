@@ -13,6 +13,7 @@
 
 .uk-navbar-container {
     /* background-color:rgb(38, 184, 239); */
+    background: #0039a6; 
     background-color: #0039a6; 
     font-size: 1.7em;
 }
@@ -21,7 +22,7 @@
 /* HEADER NAVIGATION TEXT COLOR */
 
 div.uk-navbar a, i {
-    color: white;
+    color: white !important;
 }
 
 /*
