@@ -23,11 +23,11 @@ info:
  discussion_board_url: 
 
 instructor:
--  name: Alamada & Searcy, PhDs
+-  name: Alamada & Searcy
    title: Professors
    email: csearcy@gsu.edu
-   office_location: 14 Marietta, Ste 629
-   website_url: www.lecy.info
+   office_location: 14 Marietta, Ste 629 & 55 Park Pl, Ste 5XX
+   website_url:
    github_url: 'https://github.com/cssearcy' 
    twitter_url: 
    scholar_url: 
@@ -78,13 +78,11 @@ Data is an essential ingredient of any program evaluation or performance managem
 
 The course introduces students to the R data programming language, an open source platform that has become an industry standard because of its flexibility and power. It was designed to allow people to quickly develop and share new statistical tools. It has evolved into a more general data analytics platform that can be used for analytics, customized visualizations, GIS applications, text analysis, building web applications, and much more. It has a large and active user community that has developed thousands of free custom programs.
 
-Typically only 10-20% of a project is spent analyzing data. The other 80-90% consists of merging data sources, cleaning data, defining new variables, and arranging data into the proper format. These steps require knowledge about data wrangling as well as general project management process. The Foundations of Data Science sequence teaches both the data programming fundamentals and well as project management skills to ensure that analysis is transparent, error-free and reproducible.
+Typically only 10-20% of a project is spent analyzing data. The other 80-90% consists of merging data sources, cleaning data, defining new variables, and arranging data into the proper format. These steps require knowledge about data wrangling as well as general project management process. 
 
-The Foundations of Data Science course sequence will cover the fundamentals of data programming – building unique datasets using APIs and custom tools, importing data from the cloud, linking multiple data sources, and wrangling processes to clean, transform, and reshape datasets. Advanced topics will be introduced such as writing functions, running simulations, writing packages for R, and de-bugging techniques. We will spend roughly a third of the units on graphing procedures and reporting packages.
+This course, Coding in R for Policy Analytics, will cover the building blocks of data programming in R. We will learn about variables, operators, functions, dataset construction, group structure in data, and visualization. Students will also be introduced to markdown documents and automated reporting.
 
-This course, Foundations of Data Science I, will cover the building blocks of data programming in R. We will learn about variables, operators, functions, dataset construction, group structure in data, visualization, and simulation. Students will also be introduced to markdown documents and automated reporting.
-
-The six main learning objectives for the course are:
+The six learning objectives for the course are:
 
 - Mastery of functions as the building blocks of all R programs, including arguments and scope
 - Knowledge of variable types and data structures in R, including construction and manipulation of data sets
@@ -98,7 +96,7 @@ There are no prerequisites, and we do not assume any prior background in compute
 
 # II. Assessment of Student Learning Performance & Proficiency: Keys to Student Success
 
-Assessment of student performance in this course is based on indications that the course learning objectives stated above have been achieved.  Several areas of measurement will be used to produce a final student performance rating.  These areas of performance assessment include the following:
+Assessment of student performance in this course is based on indications that the course learning objectives stated above have been achieved.  Several areas of measurement will be used to produce a final grade.  These areas include:
 
 - The ability to build a custom dataset by important data from multiple sources, merging data, and reshaping, filtering or subsetting as necessary.
 - Translating from plain English business cases to logical statements in R using logical operators and analytical techniques applied to groups.
@@ -112,7 +110,7 @@ Students will demonstrate competency in understanding, producing and communicati
 - Discussion topics on broad data science trends. 
 - A final project that integrates several skills to create a data dashboard. 
 
-Assigned work, including the course final project, and the quality of active participation in the regular online discussion sessions that are a critical part of the course learning strategy are the tools the instructors will use to measure comprehension and skill; the student&#39;s course grade is a direct reflection of demonstrated performance. Students should take stated expectations seriously regarding preparation, conduct, and academic honesty in order to receive a grade reflective of outstanding performance.  Students should be aware that merely completing assigned work in no way guarantees an outstanding grade in the course. To receive an outstanding course grade (using the grading scheme described below and the performance assessment approach noted above) all assigned work should completed on time with careful attention to assignment details.
+Assigned work, including the course final project, and the quality of active participation in online discussion sessions that are a critical part of the course learning strategy are the tools the instructors will use to measure comprehension and skill; the student&#39;s course grade is a direct reflection of demonstrated performance. Students should take stated expectations seriously regarding preparation, conduct, and academic honesty in order to receive a grade reflective of outstanding performance.  Students should be aware that merely completing assigned work in no way guarantees an outstanding grade in the course. To receive an outstanding course grade (using the grading scheme described below and the performance assessment approach noted above) all assigned work should completed on time with careful attention to assignment details.
 
 # III. Course Structure and Operations; Performance Expectations
 
@@ -196,7 +194,7 @@ The final project will be accompanied by a rubric describing the allocation of p
 
 ## E. Late and Missing Assignments
 
-Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed in a timely fashion by the due date. Once solutions are posted it is no longer possible to receive points for assignments. 
+Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions are posted it is no longer possible to receive points for assignments. 
 
 ## F.  Course Communications and Instructor Feedback:
 
