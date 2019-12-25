@@ -9,32 +9,32 @@ index:
     
 info: 
  program_title: Andrew Young School of Policy Studies
- program_website: https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms/
+ program_website: https://aysps.gsu.edu/
  course_title: Coding in R for Policy Analytics
- course_number: CPP 526 
+ course_number: ECON 8000/PMAP 8921 
  course_level: Graduate 
- course_website: 'https://canvas.asu.edu/courses/29528'
- course_start_end_dates: Aug 22 to Oct 11, 2019  
+ course_website: 'https://gastate.view.usg.edu/d2l/home/2013035'
+ course_start_end_dates: Jan 13 to Mar 2, 2020  
  course_prerequisites:  
- class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/j/944016877'
- review_sessions_when: TBD 
- review_sessions_where: UCENT Policy Analytics Lab 4th Floor + Zoom
- discussion_board_url: 'https://ds4ps.org/cpp-526-fall-2019/help/'
+ class_meets_when:  Online  
+ class_meets_where:  
+ review_sessions_when: 12:00 - 1:30 PM 
+ review_sessions_where: 55 Park Pl, Rm 801
+ discussion_board_url: 
 
 instructor:
--  name: Jesse Lecy, PhD
-   title: Professor
-   email: jdlecy@asu.edu
-   office_location: UCENT 517
+-  name: Alamada & Searcy, PhDs
+   title: Professors
+   email: csearcy@gsu.edu
+   office_location: 14 Marietta, Ste 629
    website_url: www.lecy.info
-   github_url: 'https://github.com/lecy' 
+   github_url: 'https://github.com/cssearcy' 
    twitter_url: 
-   scholar_url: 'https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en'
+   scholar_url: 
    linked_in_url:
    office_hours_time: Flexible
-   office_hours_location:  Zoom or Office
-   office_hours_app_url:  'https://calendly.com/lecy/15min'
+   office_hours_location:  Lab
+   office_hours_app_url:  'https://calendly.com/csearcy/30min'
    
 
 textbooks:
@@ -74,7 +74,7 @@ textbooks:
 
 # I.  Course Description, Course Goal and Course Learning Objectives
 
-Data is an essential ingredient of any program evaluation or performance management system. Organizations that want to embrace an evidence-based approach to management need to develop processes for gathering data, linking multiple datasets, running analysis, and sharing results with stakeholders through reports, dashboards, or web applications. The ability to collect, organize and analyze data is a desirable skill set for professional knowledge workers, high-level management, and evaluators.
+Data is an essential ingredient of any program evaluation or performance management system. Organizations that want to embrace an evidence-based approach to policy need to develop processes for gathering data, linking multiple datasets, running analysis, and sharing results with stakeholders through reports, dashboards, or web applications. The ability to collect, organize and analyze data is a desirable skill set for professional analysts, high-level management, and evaluators.
 
 The course introduces students to the R data programming language, an open source platform that has become an industry standard because of its flexibility and power. It was designed to allow people to quickly develop and share new statistical tools. It has evolved into a more general data analytics platform that can be used for analytics, customized visualizations, GIS applications, text analysis, building web applications, and much more. It has a large and active user community that has developed thousands of free custom programs.
 
