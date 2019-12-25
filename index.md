@@ -72,7 +72,7 @@ textbooks:
 
 
 
-# I.  Course Description, Course Goal and Course Learning Objectives
+# I.  Course Description & Learning Objectives
 
 Data is an essential ingredient of any program evaluation or performance management system. Organizations that want to embrace an evidence-based approach to policy need to develop processes for gathering data, linking multiple datasets, running analysis, and sharing results with stakeholders through reports, dashboards, or web applications. The ability to collect, organize and analyze data is a desirable skill set for professional analysts, high-level management, and evaluators.
 
@@ -94,7 +94,7 @@ The six learning objectives for the course are:
 
 There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed R and R Studio, and worked through a basic tutorial on R Studio.
 
-# II. Assessment of Student Learning Performance & Proficiency: Keys to Student Success
+# II. Assessment of Student Learning & Keys to Student Success
 
 Assessment of student performance in this course is based on indications that the course learning objectives stated above have been achieved.  Several areas of measurement will be used to produce a final grade.  These areas include:
 
@@ -112,9 +112,9 @@ Students will demonstrate competency in understanding, producing and communicati
 
 Assigned work, including the course final project, and the quality of active participation in online discussion sessions that are a critical part of the course learning strategy are the tools the instructors will use to measure comprehension and skill; the student&#39;s course grade is a direct reflection of demonstrated performance. Students should take stated expectations seriously regarding preparation, conduct, and academic honesty in order to receive a grade reflective of outstanding performance.  Students should be aware that merely completing assigned work in no way guarantees an outstanding grade in the course. To receive an outstanding course grade (using the grading scheme described below and the performance assessment approach noted above) all assigned work should completed on time with careful attention to assignment details.
 
-# III. Course Structure and Operations; Performance Expectations
+# III. Course Structure
 
-## A. Format and Pedagogical Theory
+## A. Format
 
 Mastering advanced analytical techniques and data programming is like learning a language. You start by mastering basic vocabulary that is specific to statistics and data science. Through your coursework you will become conversant in the domains of regression analysis, research design, and data science. Progress might be slow at first as you work to master core concepts, integrate the building blocks into a coherent mental model of real-world problems, learn to translate technical results into clear narratives for non-technical audiences, and become comfortable with data programming skills. Over time you will find that your thought processes change as you approach problem-solving in a more structured and evidence-based manner, you apply counter-factual reasoning to performance problems, and you start reading the news and viewing scientific evidence differently. You begin to think and speak like a program evaluator.
 
