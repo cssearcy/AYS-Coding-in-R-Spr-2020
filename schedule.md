@@ -93,7 +93,7 @@ You will have plenty of practice with these tools this semester. You will submit
 
 ## Introduce yourself to the class
 
-We will be using a discussion board called YellowDig for this course. Introduce yourself to the class and share a bit about:
+We will be using the discussion board in iCollege for this course. Introduce yourself to the class and share a bit about:
 
 1. A little about yourself
 2. Your previous experience with data analytics 
@@ -110,7 +110,7 @@ We will be using a discussion board called YellowDig for this course. Introduce 
 
 R is a foundational tool within a toolkit that I will refer to as the "data science ecosystem". 
 
-If you were not able to make either Zoom session, I did a brief introduction to the "ecosystem" - the community of people that are creating cool analytical tools and building tutorials and case studies for how they might be applied, as well as a core set of tools that are all designed to work nicely together in order to implement projects. 
+If you were not able to make the first lab session, we did a brief introduction to the "ecosystem" - the community of people that are creating cool analytical tools and building tutorials and case studies for how they might be applied, as well as a core set of tools that are all designed to work nicely together in order to implement projects. 
 
 You can think of R, R Studio, and Markdown kindof like Excel (analysis), Word (report-writing), and Power Point (presentations). R allows you to analyze your data, but these results are not useful unless you can share them with others. Here is where [data-driven documents](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) developed using R Studio and Markdown really shine. You can quickly package your R code as cool reports, websites, presentations, or dashboards to format the information in whatever way is most accessible and useful for your clients or stakeholders. 
 
@@ -124,31 +124,10 @@ We are going to throw a lot at you, but also provide a lot of support. Over thes
 
 If you find something confusing let me know (likely others will as well). 
 
-* We can jump on a [Zoom call](https://calendly.com/lecy/15min?month=2019-08) to do a screen share if you want to walk through anything.   
-* You can post a question to the homework discussion board for [data science I](https://ds4ps.org/cpp-526-fall-2019/help/) or [program evaluation I](https://ds4ps.org/cpp-523-fall-2019/help/).  
-* And you can join review sessions each week.  
+* And you should join the in-person lab session each week. It is scheduled on a Monday so that you have time to address your problems before labs are due. Make every attempt to join the lab if you're having problems. 
+* You can post a question to the homework discussion board for [data science I](https://ds4ps.org/cpp-526-fall-2019/help/).   
 
 Reach out if you have questions or feel stuck! 
-
-## References
-
-[Course Overview Powerpoint for Zoom Call](https://github.com/DS4PS/dp4ss-textbook/raw/master/resources/Couse-Overview.pdf)
-
-The course shells for CPP 523 and CPP 526 are located at:
-
-[https://ds4ps.org/cpp-526-fall-2019/](https://ds4ps.org/cpp-526-fall-2019/)  
-[https://ds4ps.org/cpp-523-fall-2019/](https://ds4ps.org/cpp-523-fall-2019/)  
-
-The *unofficial* program website can be found at:
-
-[https://ds4ps.org/ms-prog-eval-data-analytics/](https://ds4ps.org/ms-prog-eval-data-analytics/)
-
-And the dashboard example in R can be found here:
-
-[R Storyboard Example](https://beta.rstudioconnect.com/jjallaire/htmlwidgets-showcase-storyboard/htmlwidgets-showcase-storyboard.html)
-
-
-
 
 ** Week 1 - Functions and Vectors 
 
@@ -241,7 +220,7 @@ head( dat )
 
 
 
-*** { @unit = "Due Aug 26th", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
+*** { @unit = "Due Jan 19", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
 
 ## The Promise of Big, Open Data
 
@@ -262,7 +241,7 @@ So ignoring potential problems with big and open data for now, read about two in
 
 > For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post highlight what is interesting about the example, and what data made it possible.
 
-**Please post your reflection as a new pin on [YellowDig](https://canvas.asu.edu/courses/29528/assignments/656491).**
+**Please post your reflection as a new post on iCollege by January 19.**
 
 <br>
 
@@ -274,7 +253,7 @@ You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIx
 
 
 
-*** { @unit = "Due Aug 29th", @title = "Lab 01", @assignment, @foldout  }
+*** { @unit = "Due Jan 23", @title = "Lab 01", @assignment, @foldout  }
 
 
 <br>
@@ -284,9 +263,7 @@ You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIx
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/labs/lab-01-instructions.html">LAB-01 Instructions</a>
 
-## Submit Solutions to Canvas:
-
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/29528/assignments/750552">SUBMIT LAB-01</a>
+## Submit Solutions to the iCollege Assignment Folder.
 
 <br>
 <br>
@@ -378,7 +355,7 @@ Lab-02 covers the following topics:
 
 
 
-*** { @unit = "Due Sept 2nd", @title = "Discussion Topic: A Tour of R Packages", @assignment, @foldout  }
+*** { @unit = "Due Jan 26", @title = "Discussion Topic: A Tour of R Packages", @assignment, @foldout  }
 
 <br>
 
@@ -408,11 +385,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**Please post your reflection as a new pin on YellowDig:**
-
-
-
-<a class="uk-button uk-button-primary" href="https://www.yellowdig.com/board/40500">YELLOWDIG</a>
+**Please post your reflection as a new post on iCollege by January 26.**
 
 <br>
 <br>
@@ -421,7 +394,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 
 
-*** { @unit = "Due Sept 5th", @title = "Lab 02", @assignment, @foldout }
+*** { @unit = "Due Jan 30", @title = "Lab 02", @assignment, @foldout }
 
 <br>
 <br>
@@ -442,9 +415,7 @@ The rest of the chapter is useful information to come back to, but not needed fo
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
 
-## Submit Solutions to Canvas:
-
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/29528/assignments/764453">SUBMIT LAB-02</a>
+**Submit Solutions to the iCollege Assignment Folder.**
 
 <br>
 <br>
@@ -553,7 +524,7 @@ The lab requires you to re-create a graph that was featured in the New York Time
 
 
 
-*** { @unit = "MON Sept 9th", @title = "Discussion Topic: Data Viz Packages", @assignment, @foldout  }
+*** { @unit = "Due Feb 2", @title = "Discussion Topic: Data Viz Packages", @assignment, @foldout  }
 
 <br>
 <br>
@@ -568,13 +539,15 @@ For example, I might say that I work creating budgets for a government organizat
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
+**Please post your reflection as a new post on iCollege by February 2.**
+
 <br>
 <br>
 
 
 
 
-*** { @unit = "SUN Sept 15th", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "Due Feb 6", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
@@ -590,9 +563,7 @@ You are advised to **skim** the chapters on graphing functions and custom graphi
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-03-instructions.html">LAB-03 Instructions</a>
 
-## Submit Solutions to Canvas:
-
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/29528/assignments/775169">SUBMIT LAB-03</a>
+**Submit solutions to the iCollege Assignment Folder.**
 
 <br>
 <br>
@@ -662,7 +633,7 @@ But we will now add an input widget that allows users to select one team that wi
 
 
 
-*** { @unit = "MON Sept 16th", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due Feb 9", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -679,7 +650,7 @@ Find a graph that violates one of these principles, or commits an equally egregi
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-
+**Please post your reflection as a new post on iCollege by February 9.**
 <br>
 <br>
 
@@ -701,7 +672,7 @@ For more widget examples visit the [R Shiny Widget Gallery](https://shiny.rstudi
 
 
 
-*** { @unit = "SUN Sept 22nd", @title = "Lab 04", @assignment, @foldout  }
+*** { @unit = "Due Feb 13", @title = "Lab 04", @assignment, @foldout  }
 
 
 <br>
@@ -713,9 +684,7 @@ This lab is designed to introduce you to R Shiny functions by adding a dynamic e
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-04-instructions.html">LAB-04 Instructions</a>
 
-## Submit Solutions to Canvas:
-
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/29528/assignments/786492">SUBMIT LAB-04</a>
+**Submit solutions to the iCollege Assignments Folder.**
 
 <br>
 <br>
@@ -778,7 +747,7 @@ Lab 05 will use data on traffic accidents in the City of Tempe:
 
 
 
-*** { @unit = "TUES Sept 24th", @title = "Discussion Topic Data APIs", @assignment, @foldout  }
+*** { @unit = "Due Feb 16", @title = "Discussion Topic Data APIs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -805,14 +774,16 @@ For the discussion topic this week find an example of an API that could be usefu
 
 You can find APIs through a Google search, or browse datasets on the [DS4PS Open Data](https://ds4ps.org/data/) page. Altnernatively, you can report on a package in R that uses a data API and describe what kinds of data the package allows you to access. 
 
-*Note, you do not have to show how to use the API for the post, just identify what information is accessible and how it might be used.* 
+*Note, you do not have to show how to use the API for the post, just identify what information is accessible and how it might be used.*
+
+**Please post your reflection as a new post on iCollege by February 16.**
 
 <br>
 <br>
 
 
 
-*** { @unit = "SUN Sept 29th", @title = "Lab 05", @assignment, @foldout  }
+*** { @unit = "Due Feb 20", @title = "Lab 05", @assignment, @foldout  }
 
 <br>
 <br>
@@ -825,9 +796,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-05-instructions.html">LAB-05 Instructions</a>
 
-## Submit Solutions to Canvas:
-
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/29528/assignments/794992">SUBMIT LAB-05</a>
+**Submit solutions to the iCollege Assignment Folder.**
 
 <br>
 <br>
@@ -888,7 +857,7 @@ We will join the Salaries table to player bios (Master table) and performance da
 
 
 
-*** { @unit = "MON Sept 30th", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due Feb 23", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 
@@ -942,12 +911,12 @@ For this week, read about how [GitHub has evolved to support government](https:/
 
 Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws? 
 
-<a class="uk-button uk-button-primary" href="https://www.yellowdig.com/board/40500">YELLOWDIG</a>
+**Please post your reflection as a new post on iCollege by February 23.**
 
 <br><br>
 
 
-*** { @unit = "FRI Oct 4th", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "Due Feb 27", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
@@ -958,9 +927,7 @@ This lab is designed to introduce you to primary data join functions in R.
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-06-instructions.html">LAB-06 Instructions</a>
 
-## Submit Solutions to Canvas:
-
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/29528/assignments/814525">SUBMIT LAB-06</a>
+**Submit solutions to the iCollege Assignment Folder.**
 
 <br>
 <br>
@@ -983,33 +950,26 @@ This lab is designed to introduce you to primary data join functions in R.
 <br>
 
 
-*** { @unit = "FRI Oct 11th", @title = "Code-Through Assignment", @assignment, @foldout  }
+*** { @unit = "Due Mar 1", @title = "Code-Through Assignment", @assignment, @foldout  }
 
 <br>
 <br>
 
 ## Code-Through
 
-Since you are sharing your code-through with your classmates on Yellowdig, it will serve as your discussion topic this week.
+Since you are sharing your code-through with your classmates on iCollege, it will serve as your discussion topic this week.
 
 If you send me your RMD and HTML files via email, I will post them to GitHub and create a link for you if you would like to share a URL instead of a file. 
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
-## Submit to Canvas:
-
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/29528/assignments/814647">SUBMIT CODE-THROUGH</a>
-
-## Post on Yellowdig
-
-<a class="uk-button uk-button-primary" href="https://www.yellowdig.com/board/40500">Yellowdig</a>
-
+**Please post your reflection as a new post on iCollege by March 1.**
 
 <br>
 <br>
 
 
-*** { @unit = "FRI Oct 11th", @title = "FINAL PROJECT", @assignment, @foldout  }
+*** { @unit = "Due Mar 2", @title = "FINAL PROJECT", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1021,11 +981,7 @@ Working with the crash data from Lab-05, you will extend the work you began in L
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/final-project-instructions.html">Final Project Instructions</a>
 
-## Submit to Canvas:
-
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/29528/assignments/821740">SUBMIT DASHBOARD</a>
-
-*Please note that I will be traveling on Friday Oct 11th, so response to questions will be slow if you wait until Friday.*
+**Submit your project to the iCollege Assignment Folder.**
 
 <br>
 <br>
