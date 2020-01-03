@@ -90,7 +90,7 @@ The six learning objectives for the course are:
 - Ability to build custom visualizations through the base R graphics package
 - Creation of dynamic graphics and data dashboards using R shiny tools
 
-# Course Prerequisites
+## Course Prerequisites
 
 There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed R and R Studio, and worked through a basic tutorial on R Studio.
 
@@ -138,7 +138,7 @@ The following texts are recommended as good reference material for topics covere
 
 In addition to the required textbooks, the instructor will supplement the assigned unit readings with various journal articles, policy reports, or other related material. These will be made available in iCollege. Please be sure to set notifications in iCollege so that you receive emails when announcements are posted. 
 
-## C. Course Grading System for Assigned Work, including Final Project:
+## C. Course Grading
 
 Letter grades comport with a traditional set of intervals:
 
@@ -157,7 +157,7 @@ The assigned work for the term comes in the form of four elements, described bel
 
 - **Final Dashboard Project (30%):**  This course will close with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating material the we have covered throughout the course.
 
-- **Explainer Assignment (10%):**  You are invited to pick one topic from the class that you want to learn more about, or that you think might provide value to your classmates. Create a short tutorial to make your topic accessible to your peers. It can be a blog post, a video, a GIF, or a tutorial that explains an important concept from data programming, presents a helpful framework, illustrates a useful R tool or approach to data programming, or introduces classmates to a new package or function. 
+- **Explainer Assignment (10%):**  You are invited to pick one topic from the class that you want to learn more about, or that you think might provide value to your classmates. Create a short tutorial to make your topic accessible to your peers. It can be a blog post, a video, a GIF, or a tutorial that explains an important concept from data programming, presents a helpful framework, illustrates a useful R tool or approach to data programming, or introduces classmates to a new package or function. **You will present this work in no more than 10 minutes in a Monday lab session.** After it is presented in a lab session, you will post it to the discussion board in iCollege. You will be able to sign up to be an "explainer" starting the second week of the course.
 
 - **Discussion Topics (10%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover go in-depth into exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article. We will use iCollege discussion boards for this assignment. You earn points through your activities on the board. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points are allocated as follows:
 
@@ -186,9 +186,9 @@ The final project will be accompanied by a rubric describing the allocation of p
 
 Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. Late submissions will be reduced by a full letter grade.
 
-## F.  Course Communications and Instructor Feedback
+## F.  Course Communication and Instructor Feedback
 
-**Course content** is hosted on this website. Modules, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions** will be made through iCollege. 
+**Course content** is hosted on this website. Modules, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions will be made through iCollege.** 
 
 Please post lab questions on the [Get Help](https://ds4ps.github.io/cpp-526-fall-2019/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly. 
 
