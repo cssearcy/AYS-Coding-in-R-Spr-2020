@@ -8,8 +8,8 @@ index:
     subtitle: This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offer a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. It will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
     
 info: 
- program_title: Andrew Young School of Policy Studies
- program_website: https://aysps.gsu.edu/
+ program_title: 
+ program_website:
  course_title: Coding in R for Policy Analytics
  course_number: ECON 8000/PMAP 8921 
  course_level: Graduate 
