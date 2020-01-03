@@ -3,7 +3,7 @@ layout: schedule
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/29528/assignments'
+  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2013035'
 ---
  
 <!--- 
@@ -99,7 +99,7 @@ We will be using the discussion board in iCollege for this course. Introduce you
 2. Your previous experience with data analytics 
 3. One thing you hope to do with your new skills in data analytics 
 
-<a class="uk-button uk-button-default" href="https://canvas.asu.edu/courses/29528/assignments/656491">Post to YellowDig</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 
 
