@@ -169,8 +169,6 @@ Background Chapters:
 [Markdown](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html)
 
 
-
-
 ## Lab 
 
 Lab-01 covers the following topics:
@@ -229,18 +227,17 @@ So ignoring potential problems with big and open data for now, read about two in
 
 [How a blog saved OK Cupid](https://fivethirtyeight.com/features/christian-rudder-dataclysm-okcupid/), FiveThirtyEight Blog, Nov 2014.
 
-
 <br> 
 
 **ASSIGNMENT:** 
 
-> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post, highlight what is interesting about the example and what data made it possible.
+> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group.
 
-<br>
-
-You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), or this short interview. 
+Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), or this short interview. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTdPpoUp25w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+In your post, highlight what is interesting about the example and what data made it possible.
 
 **[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by January 19.**
 
