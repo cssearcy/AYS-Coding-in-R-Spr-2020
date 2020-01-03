@@ -84,9 +84,6 @@ You will have plenty of practice with these tools this semester. You will submit
 - [ ] [Read the Syllabus](https://ds4ps.org/cpp-526-fall-2019/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
-- [ ] Fill out the [doodle poll](https://doodle.com/poll/x8fdtsnyi6d54xpg) for review session times 
-- [ ] Introduce Yourself on [YellowDig](https://canvas.asu.edu/courses/29528/assignments/656491) (see below)
-
 
 
 *** { @unit = "Due Jan 17", @title = "Introduce Yourself", @assignment, @foldout   }
@@ -114,8 +111,6 @@ If you were not able to make the first lab session, we did a brief introduction 
 
 You can think of R, R Studio, and Markdown kindof like Excel (analysis), Word (report-writing), and Power Point (presentations). R allows you to analyze your data, but these results are not useful unless you can share them with others. Here is where [data-driven documents](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) developed using R Studio and Markdown really shine. You can quickly package your R code as cool reports, websites, presentations, or dashboards to format the information in whatever way is most accessible and useful for your clients or stakeholders. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oC1xz97aoYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Getting Help
 
 Nerds are stereotypically perceived as being hermetic, but in reality they have just created their own universes and civilizations. Surprisingly coding is a very social activity, and real-world analytics projects are almost always collaborative. You will learn how to use discussion boards to accelerate learning and facilitate collaboration, and social coding tools like GitHub to manage large data project. 
@@ -131,7 +126,7 @@ Reach out if you have questions or feel stuck!
 
 ** Week 1 - Functions and Vectors 
 
-*** { @unit = "", @title = "Unit Overview", @foldout  }
+*** { @unit = "", @title = "Unit Overview", @reading, @foldout  }
 
 
 ## Description
