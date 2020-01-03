@@ -198,11 +198,11 @@ Students should be aware that the course instructor will attempt to respond to a
 
 Respectful conversations and tolerance of others&#39; opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course with no refund. Students are required to adhere to the behavior standards listed in the GSU Sudent Code of Conduct.
 
-# H.  Academic Integrity and Honesty
+## H.  Academic Integrity and Honesty
 
 GSU expects the highest standards of academic integrity. Violations of academic integrity include but are not limited to cheating, plagiarism, fabrication, etc. or facilitating any of these activities. This course relies heavily on writing and original critical thought. Any student who is suspected of not producing his or her own original work will be reported to the Dean of Students for investigation. **Plagiarism will not be tolerated**. **Any student who plagiarizes or otherwise fabricates his or her work will receive no credit for that assignment. It will be recorded as zero points—and the student will risk a failing grade for the course.** For more information, refer to the GSU Student Code of Conduct.
 
-# I.  Student Learning Environment: Accommodations
+## I.  Student Learning Environment: Accommodations
 
 **Disability Accommodations:** If you have any condition, such as a physical or mental disability, which will make it difficult for you to carry out the work as outlined above or which will require extra time on assignments, please notify us in the first two weeks of the course so that we may make appropriate arrangements. Students who wish to request accommodation for a disability may do so by registering with the GSU Access & Accommodations Center (AACE). Students may only be accommodated upon issuance of a signed Accommodation Plan by AAACE. Students are responsible for providing a copy of that plan to instructors of all classes in which an accommodation is sought.
 
@@ -210,9 +210,7 @@ GSU expects the highest standards of academic integrity. Violations of academic 
 
 **Military Accommodations:** A student who is a member of the National Guard, Reserve, or other branch of the armed forces and is unable to complete classes because of military activation may request complete or partial unrestricted administrative withdrawals or incompletes depending on the timing of the activation. Please notify the instructor as soon as you are aware of a potential activation.
 
-# IV. Course Schedule and Unit-specific Learning Objectives
-
-## A. Schedule: Overview of Readings and Assignments
+# IV. Course Schedule
 
 This course spans a rigorous seven week schedule. A schedule for each week of the term is outlined here; the course is divided into seven units with learning objectives for each unit.
 
@@ -220,34 +218,33 @@ Please note: the course instructor may from time to time adjust assigned reading
 
 [Schedule](https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020/schedule/)
 
-## Couse Schedule
+## Course Schedule
 
-### Unit 0: R Data Science Toolkit 
+### Week 0: R Data Science Toolkit 
 - CH-01 Core R 
 - CH-02 R Studio
 - CH-03 Data-Driven Docs & RMD
 
-
-### Unit 1: Functions and Vectors
+### Week 1: Functions and Vectors
 - CH-03, CH-04
 - Lab #1 
 
-### Unit 2: Operators and Descriptives
+### Week 2: Operators and Descriptives
 - Lab #2 
 
-### Unit 3: Visualization
+### Week 3: Visualization
 - Lab #3
 
-### Unit 4: Dynamic Visualization
+### Week 4: Dynamic Visualization
 - Lab #4 
 
-### Unit 5: Data Wrangling
+### Week 5: Data Wrangling
 - Lab #5
 
-### Unit 6: Data IO and Joins
+### Week 6: Data IO and Joins
 - Lab #6
 
-### Unit 7: Dashboards
+### Week 7: Dashboards
 - Start Final Project
 
 
