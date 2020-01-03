@@ -90,7 +90,7 @@ The six learning objectives for the course are:
 - Ability to build custom visualizations through the base R graphics package
 - Creation of dynamic graphics and data dashboards using R shiny tools
 
-# Course Prerequisites:
+# Course Prerequisites
 
 There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed R and R Studio, and worked through a basic tutorial on R Studio.
 
@@ -134,7 +134,6 @@ The following texts are recommended as good reference material for topics covere
 * Teetor, P. (2011). _R Cookbook: Proven recipes for data analysis, statistics, and graphics_. &quot; O&#39;Reilly Media, Inc.&quot;.  
 * Sanchez, G. (2013). _Handling and processing strings in R._ Berkeley: Trowchez Editions. _(free online)_  
 * Peng, R. D., &amp; Matsui, E. (2015). _The Art of Data Science._ _A Guide for Anyone Who Works with Data._ Skybrude Consulting, 200, 162.  
-
 
 
 In addition to the required textbooks, the instructor will supplement the assigned unit readings with various journal articles, policy reports, or other related material. These will be made available in iCollege. Please be sure to set notifications in iCollege so that you receive emails when announcements are posted. 
@@ -187,7 +186,7 @@ The final project will be accompanied by a rubric describing the allocation of p
 
 Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. Late submissions will be reduced by a full letter grade.
 
-## F.  Course Communications and Instructor Feedback:
+## F.  Course Communications and Instructor Feedback
 
 **Course content** is hosted on this website. Modules, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions** will be made through iCollege. 
 
@@ -195,7 +194,7 @@ Please post lab questions on the [Get Help](https://ds4ps.github.io/cpp-526-fall
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion work, is between 5 and 10 work days.
 
-## G.  Student Conduct: Expectation of Professional Behavior:
+## G.  Student Conduct: Expectation of Professional Behavior
 
 Respectful conversations and tolerance of others&#39; opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course with no refund. Students are required to adhere to the behavior standards listed in the GSU Sudent Code of Conduct.
 
@@ -219,7 +218,7 @@ This course spans a rigorous seven week schedule. A schedule for each week of th
 
 Please note: the course instructor may from time to time adjust assigned readings or adjust the due dates for assignment. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
-[Schedule](https://ds4ps.org/cpp-526-fall-2019/schedule/)
+[Schedule](https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020/schedule/)
 
 ## Couse Schedule
 
