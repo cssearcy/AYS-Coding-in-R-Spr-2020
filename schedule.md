@@ -81,7 +81,7 @@ You will have plenty of practice with these tools this semester. You will submit
 *** { @unit = "Due Jan 17", @title = "Your Course Prep Checklist", @assignment, @foldout }
 
 
-- [ ] [Read the Syllabus](https://ds4ps.org/cpp-526-fall-2019/) 
+- [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
 
@@ -90,7 +90,7 @@ You will have plenty of practice with these tools this semester. You will submit
 
 ## Introduce yourself to the class
 
-We will be using the discussion board in iCollege for this course. Introduce yourself to the class and share a bit about:
+We will be using the discussion board in iCollege for this course. Introduce yourself to the class and share:
 
 1. A little about yourself
 2. Your previous experience with coding and/or data analytics 
@@ -100,7 +100,7 @@ We will be using the discussion board in iCollege for this course. Introduce you
 
 
 
-*** { @unit = "", @title = "ORIENTATION", @lecture, @foldout   }
+*** { @unit = "", @title = "Orientation", @lecture, @foldout   }
 
 
 ## Welcome !
@@ -119,7 +119,7 @@ We are going to throw a lot at you, but also provide a lot of support. Over thes
 
 If you find something confusing let me know (likely others will as well). 
 
-* And you should join the in-person lab session each week. It is scheduled on a Monday so that you have time to address your problems before labs are due. Make every attempt to join the lab if you're having problems. 
+* It is highly recommended that you join the in-person lab session each week. It is scheduled on a Monday so that you have time to address your problems before labs are due. Make every attempt to join the lab if you're having problems. 
 * You can post a question to the homework discussion board for [data science I](https://ds4ps.org/cpp-526-fall-2019/help/).   
 
 Reach out if you have questions or feel stuck! 
@@ -220,7 +220,7 @@ head( dat )
 ## The Promise of Big, Open Data
 
 
-The world is simultaneously generating more data than it has ever before, as well as pushing for policies for making government data more accessible and democratic. These trends and movements is an important enabling aspect of data science, becuse it provides opportunity for real insights that can change our understanding of systems and allow us to hold institutions accountable.
+The world is simultaneously generating more data than it has ever before, as well as pushing for policies for making government data more accessible and democratic. These trends and movements are an important enabling aspect of data science, because it provides opportunity for real insights that can change our understanding of systems and allow us to hold institutions accountable.
 
 So ignoring potential problems with big and open data for now, read about two interesting cases where big and open data have offered deep insights into city planning and human nature. 
 
@@ -234,15 +234,15 @@ So ignoring potential problems with big and open data for now, read about two in
 
 **ASSIGNMENT:** 
 
-> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post highlight what is interesting about the example, and what data made it possible.
-
-**Please post your reflection as a new post on iCollege by January 19.**
+> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post, highlight what is interesting about the example and what data made it possible.
 
 <br>
 
 You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), or this short interview. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTdPpoUp25w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by January 19.**
 
 <br>
 
