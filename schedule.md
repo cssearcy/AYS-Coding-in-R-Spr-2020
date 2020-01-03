@@ -78,7 +78,7 @@ You will have plenty of practice with these tools this semester. You will submit
 <br>
 
 
-*** { @unit = "Aug 23", @title = "Your Course Prep Checklist", @assignment, @foldout }
+*** { @unit = "Due Jan 17", @title = "Your Course Prep Checklist", @assignment, @foldout }
 
 
 - [ ] [Read the Syllabus](https://ds4ps.org/cpp-526-fall-2019/) 
@@ -89,14 +89,14 @@ You will have plenty of practice with these tools this semester. You will submit
 
 
 
-*** { @unit = "Aug 23", @title = "Introduce Yourself", @assignment, @foldout   }
+*** { @unit = "Due Jan 17", @title = "Introduce Yourself", @assignment, @foldout   }
 
 ## Introduce yourself to the class
 
 We will be using the discussion board in iCollege for this course. Introduce yourself to the class and share a bit about:
 
 1. A little about yourself
-2. Your previous experience with data analytics 
+2. Your previous experience with coding and/or data analytics 
 3. One thing you hope to do with your new skills in data analytics 
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
