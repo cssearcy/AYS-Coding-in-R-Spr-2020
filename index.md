@@ -23,17 +23,17 @@ info:
  discussion_board_url: 
 
 instructor:
--  name: Alamada & Searcy
-   title: Professors
+-  name: Cynthia Searcy
+   title: Associate Dean
    email: csearcy@gsu.edu
-   office_location: 
+   office_location: 14 Marietta Street, Ste. 629
    website_url:
    github_url: 'https://github.com/cssearcy' 
    twitter_url: 
    scholar_url: 
-   linked_in_url:
-   office_hours_time: Flexible
-   office_hours_location:  Lab
+   linked_in_url: https://www.linkedin.com/in/cynthia-searcy-a2a040172/
+   office_hours_time: By Appointment
+   office_hours_location:  
    office_hours_app_url:  'https://calendly.com/csearcy/30min'
    
 
