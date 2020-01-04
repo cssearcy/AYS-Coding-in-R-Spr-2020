@@ -130,7 +130,7 @@ We will use a custom textbook for this course available at the link above.
 
 The following texts are recommended as good reference material for topics covered in this course:
 
-* Wickham, H., &amp; Grolemund, G. (2016). _R for Data Science._ O&#39;Reilly Press_. (free online)_  
+* Wickham, H., &amp; Grolemund, G. (2016). _R for Data Science._ O&#39;Reilly Press. _(free online)_  
 * Teetor, P. (2011). _R Cookbook: Proven recipes for data analysis, statistics, and graphics_. &quot; O&#39;Reilly Media, Inc.&quot;.  
 * Sanchez, G. (2013). _Handling and processing strings in R._ Berkeley: Trowchez Editions. _(free online)_  
 * Peng, R. D., &amp; Matsui, E. (2015). _The Art of Data Science._ _A Guide for Anyone Who Works with Data._ Skybrude Consulting, 200, 162.  
@@ -168,7 +168,6 @@ The assigned work for the term comes in the form of four elements, described bel
   - max of 20 points can be earned each week.
 
 <br>
-
 
 ## D. General Grading Rubric for Written Work
 
