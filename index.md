@@ -187,9 +187,9 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 ## F.  Course Communication and Instructor Feedback
 
-**Course content** is hosted on this website. Modules, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions will be made through iCollege.** 
+**Course content** is hosted on this website. Modules, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions will be made through iCollege and are due by 11:59pm on the due dates listed on the course schedule.** 
 
-Please post lab questions on the [Get Help](https://ds4ps.github.io/cpp-526-fall-2019/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly. 
+Please post lab questions on the [Get Help](https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020/help/) page on this site, schedule individual office hours using the Calendly links provided above, or email the instructor directly. 
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion work, is between 5 and 10 work days.
 
