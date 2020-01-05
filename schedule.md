@@ -30,7 +30,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 
 
-*** { @unit = "", @title = "The R Toolkit", @lecture, @foldout }
+*** { @unit = "", @title = "The R Toolkit", @reading, @foldout }
 
 
 ## Introducing R 
@@ -100,7 +100,7 @@ We will be using the discussion board in iCollege for this course. Introduce you
 
 
 
-*** { @unit = "", @title = "Orientation", @lecture, @foldout   }
+*** { @unit = "", @title = "Orientation", @reading, @foldout   }
 
 
 ## Welcome !
@@ -119,8 +119,8 @@ We are going to throw a lot at you, but also provide a lot of support. Over thes
 
 If you find something confusing let me know (likely others will as well). 
 
-* It is highly recommended that you join the in-person lab session each week. It is scheduled on a Monday so that you have time to address your problems before labs are due. Make every attempt to join the lab if you're having problems. 
-* You can post a question to the homework discussion board for [data science I](https://ds4ps.org/cpp-526-fall-2019/help/).   
+* It is **highly recommended that you join the in-person lab session each week.** It is scheduled on a Monday so that you have time to address your problems before labs are due. Make every attempt to join the lab if you're having problems. 
+* You can post a question to the [homework discussion board](https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020/help/).   
 
 Reach out if you have questions or feel stuck! 
 
