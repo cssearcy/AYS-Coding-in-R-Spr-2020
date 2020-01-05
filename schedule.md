@@ -105,11 +105,11 @@ We will be using the discussion board in iCollege for this course. Introduce you
 
 ## Welcome !
 
-R is a foundational tool within a toolkit that I will refer to as the "data science ecosystem". 
+R is a foundational tool within a toolkit that I will refer to as the "data science ecosystem." 
 
-If you were not able to make the first lab session, we did a brief introduction to the "ecosystem" - the community of people that are creating cool analytical tools and building tutorials and case studies for how they might be applied, as well as a core set of tools that are all designed to work nicely together in order to implement projects. 
+If you were not able to make the first lab session, we did a brief introduction to the ecosystem - the community of people that are creating cool analytical tools and building tutorials and case studies for how they might be applied, as well as a core set of tools that are all designed to work nicely together in order to implement projects. 
 
-You can think of R, R Studio, and Markdown kindof like Excel (analysis), Word (report-writing), and Power Point (presentations). R allows you to analyze your data, but these results are not useful unless you can share them with others. Here is where [data-driven documents](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) developed using R Studio and Markdown really shine. You can quickly package your R code as cool reports, websites, presentations, or dashboards to format the information in whatever way is most accessible and useful for your clients or stakeholders. 
+You can think of R, R Studio, and Markdown kind of like Excel (for analysis), Word (for report writing), and Power Point (for presentations). R allows you to analyze your data, but these results are not useful unless you can share them with others. Here is where [data-driven documents](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) developed using R Studio and Markdown really shine. You can quickly package your R code as cool reports, websites, presentations, or dashboards to format the information in whatever way is most accessible and useful for your clients or stakeholders. 
 
 ## Getting Help
 
@@ -136,7 +136,7 @@ This section introduces functions and vectors, two important building blocks of 
 
 ## Learning Objectives
 
-Once you have completed this section you will be able to 
+Once you have completed this section you will be able to: 
 * create new objects in R 
 * use functions 
 * summarize vectors by type
@@ -156,7 +156,7 @@ Required:
 
 Background Chapters:
 
-**You will start simple and get practice with these tools on labs. Skim these, then return for reference as you get stuck or want to deepend your knowledge.**
+**You will start simple and get practice with these tools on labs. Skim these materials, then return to them for reference as you get stuck or want to deepen your knowledge.**
 
 [Learning to Learn R](http://ds4ps.org/dp4ss-textbook/ch-032-learning_r.html)
 
@@ -231,7 +231,7 @@ So ignoring potential problems with big and open data for now, read about two in
 
 **ASSIGNMENT:** 
 
-> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group.
+> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know and share it with the group.
 
 Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), or this short interview. 
 
@@ -239,7 +239,7 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 In your post, highlight what is interesting about the example and what data made it possible.
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by January 19.**
+**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on January 19.**
 
 <br>
 
@@ -255,27 +255,15 @@ In your post, highlight what is interesting about the example and what data made
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/labs/lab-01-instructions.html">LAB-01 Instructions</a>
 
-## Submit Solutions to the iCollege Assignment Folder.
+## Submit Solutions to the iCollege Assignment Folder by 11:59pm on January 23.
 
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ** Week 2 - Operators and Descriptives
 
-*** { @unit = "", @title = "Week 2 Reflection Point", @foldout }
+*** { @unit = "", @title = "Week 2 Reflection", @foldout }
 
 
 # Beginning
@@ -310,7 +298,7 @@ In your post, highlight what is interesting about the example and what data made
 
 
 
-*** { @unit = "", @title = "Unit Overview", @foldout }
+*** { @unit = "", @title = "Unit Overview", @reading, @foldout }
 
 
 <br>
@@ -322,7 +310,7 @@ This section introduces logical statements used to create custom groups from you
 
 ## Learning Objectives
 
-Once you have completed this section you will be able to 
+Once you have completed this section you will be able to: 
 * translate human language phrases to a computer language
 * create subsets of data 
 
@@ -377,7 +365,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**Please post your reflection as a new post on iCollege by January 26.**
+**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on January 26.**
 
 <br>
 <br>
@@ -407,24 +395,16 @@ The rest of the chapter is useful information to come back to, but not needed fo
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
 
-**Submit Solutions to the iCollege Assignment Folder.**
+**Submit Solutions to the iCollege Assignment Folder by 11:59pm on January 30.**
 
 <br>
 <br>
-
-
-
-
-
-
-
-
 
 
 ** Week 3 - Visualization
 
 
-*** { @unit = "", @title = "Week 3 Reflection Point", @foldout  }
+*** { @unit = "", @title = "Week 3 Reflection", @foldout  }
 
 
 <br>
@@ -435,7 +415,7 @@ The rest of the chapter is useful information to come back to, but not needed fo
 > 
 > And the next stage that a lot of people go through, is that you learn more techniques, and more complex ways of solving problems, and then you get excited about them and start to apply them everywhere possible. So instead of using the simplest possible solution, you end up creating something that’s probably overly complex or uses some overly general formulation.
 > 
-> And then eventually you get past that and it’s about understanding, “what are the techniques at my disposal? Which techniques fit this problem most naturally? How can I express myself as clearly as possible, so I can understand what I am doing, and so other people can understand what I am doing?” I talk about this a lot but think explicitly about code as communication. You are obviously telling the computer what to do, but ideally you want to write code to express what it means or what it is trying to do as well, so when others read it and when you in the future reads it, you can understand some of the reasoning.
+> And then eventually you get past that and it’s about understanding, “What are the techniques at my disposal? Which techniques fit this problem most naturally? How can I express myself as clearly as possible, so I can understand what I am doing, and so other people can understand what I am doing?” Think about code as communication. You are obviously telling the computer what to do, but ideally you want to write code to express what it means or what it is trying to do as well, so when others read it and when you in the future reads it, you can understand some of the reasoning.
 
 ~ Hadley Wickham [Advice to Young and Old R Programmers](https://www.r-bloggers.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/)
 
@@ -444,7 +424,7 @@ The rest of the chapter is useful information to come back to, but not needed fo
 
 
 
-*** { @unit = "", @title = "Unit Overview", @foldout }
+*** { @unit = "", @title = "Unit Overview", @reading, @foldout }
 
 
 <br>
@@ -531,7 +511,7 @@ For example, I might say that I work creating budgets for a government organizat
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-**Please post your reflection as a new post on iCollege by February 2.**
+**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 2.**
 
 <br>
 <br>
@@ -555,7 +535,7 @@ You are advised to **skim** the chapters on graphing functions and custom graphi
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-03-instructions.html">LAB-03 Instructions</a>
 
-**Submit solutions to the iCollege Assignment Folder.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on February 6.**
 
 <br>
 <br>
@@ -572,7 +552,7 @@ You are advised to **skim** the chapters on graphing functions and custom graphi
 
 
 
-*** { @unit = "", @title = "Unit Overview", @foldout }
+*** { @unit = "", @title = "Unit Overview", @reading, @foldout }
 
 <br>
 
@@ -595,7 +575,7 @@ By the end of this unit you will be able to:
 
 ## Assigned Reading
 
-Read the notes on using R Shiny **widgets** and **render** functions to accept user input (widgets), and change graphics in response (render).  
+Read the notes on using R Shiny **widgets** and **render** functions to accept user input (widgets) and change graphics in response (render).  
 
 * [Notes on R Shiny](https://github.com/DS4PS/cpp-526-fall-2019/raw/master/lectures/shiny-widgets.pdf)  
 * [Example of a Dynamic Graph](https://shiny.rstudio.com/gallery/kmeans-example.html)  
@@ -642,7 +622,7 @@ Find a graph that violates one of these principles, or commits an equally egregi
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-**Please post your reflection as a new post on iCollege by February 9.**
+**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 9.**
 <br>
 <br>
 
@@ -650,7 +630,7 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 
 
 
-*** { @unit = "", @title = "Demo of Shiny Widgets", @foldout }
+*** { @unit = "", @title = "Demo of Shiny Widgets", @reading, @foldout }
 
 <br>
 [Download Shiny Widgets Demo](https://cdn.rawgit.com/DS4PS/Data-Science-Class/53c986f1/TEMPLATES/ShinyWidgetsDemo.Rmd
@@ -676,24 +656,17 @@ This lab is designed to introduce you to R Shiny functions by adding a dynamic e
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-04-instructions.html">LAB-04 Instructions</a>
 
-**Submit solutions to the iCollege Assignments Folder.**
+**Submit solutions to the iCollege Assignments Folder by 11:59pm on February 13.**
 
 <br>
 <br>
-
-
-
-
-
-
-
 
 
 
 ** Week 5 - Data Wrangling 
 
 
-*** { @unit = "", @title = "Unit Overview", @foldout }
+*** { @unit = "", @title = "Unit Overview", @reading, @foldout }
 
 <br>
 
@@ -768,7 +741,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 *Note, you do not have to show how to use the API for the post, just identify what information is accessible and how it might be used.*
 
-**Please post your reflection as a new post on iCollege by February 16.**
+**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 16.**
 
 <br>
 <br>
@@ -788,7 +761,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-05-instructions.html">LAB-05 Instructions</a>
 
-**Submit solutions to the iCollege Assignment Folder.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on February 20.**
 
 <br>
 <br>
@@ -802,7 +775,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 
 
-*** { @unit = "", @title = "Unit Overview", @foldout }
+*** { @unit = "", @title = "Unit Overview", @reading, @foldout }
 
 <br>
 
@@ -903,7 +876,7 @@ For this week, read about how [GitHub has evolved to support government](https:/
 
 Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws? 
 
-**Please post your reflection as a new post on iCollege by February 23.**
+**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 23.**
 
 <br><br>
 
@@ -919,7 +892,7 @@ This lab is designed to introduce you to primary data join functions in R.
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-06-instructions.html">LAB-06 Instructions</a>
 
-**Submit solutions to the iCollege Assignment Folder.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on February 27.**
 
 <br>
 <br>
@@ -955,7 +928,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
-**Please post your reflection as a new post on iCollege by March 1.**
+**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on March 1.**
 
 <br>
 <br>
@@ -973,7 +946,7 @@ Working with the crash data from Lab-05, you will extend the work you began in L
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/final-project-instructions.html">Final Project Instructions</a>
 
-**Submit your project to the iCollege Assignment Folder.**
+**Submit your project to the iCollege Assignment Folder by 11:59pm on March 2.**
 
 <br>
 <br>
