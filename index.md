@@ -17,7 +17,19 @@ info:
  course_start_end_dates: June 7 to July 26, 2021
  class_meets_when:  Online  
 
-
+instructor:
+-  name: Jamison Crawford
+   title: Faculty Associate
+   email: jamisoncrawfordgsu@gmail.com
+   office_location: 
+   website_url: 'https://www.rpubs.com/jamisoncrawford'
+   github_url: 'https://github.com/jamisoncrawford' 
+   twitter_url: 
+   scholar_url: 
+   linked_in_url: https://www.linkedin.com/in/jamisoncrawford
+   office_hours_time: See Schedule
+   office_hours_app_url: 'https://calendly.com/jamisoncrawford/20min'
+   office_hours_location: Zoom
    
 
 textbooks:
