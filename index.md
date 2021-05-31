@@ -8,7 +8,7 @@ index:
     subtitle: This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offer a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. It will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
     
 info: 
- program_title: 
+ program_title: Andrew Young School
  program_website:
  course_title: Coding in R for Policy Analytics
  course_number: ECON 8000 / PMAP 8921 / CRJU 8830
@@ -17,15 +17,7 @@ info:
  course_start_end_dates: June 7 to July 26, 2021
  class_meets_when:  Online  
 
-instructor:
--  name: Jamison Crawford
-   title: Faculty Associate
-   email: jamisoncrawfordgsu@gmail.com
-   website_url: 'https://www.rpubs.com/jamisoncrawford'
-   github_url: 'https://github.com/jamisoncrawford' 
-   linked_in_url: https://www.linkedin.com/in/jamisoncrawford
-   office_hours_time: See Schedule
-   office_hours_app_url: 'https://calendly.com/jamisoncrawford/20min'
+
    
 
 textbooks:
