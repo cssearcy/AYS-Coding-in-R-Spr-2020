@@ -15,7 +15,6 @@ info:
  course_level: Graduate 
  course_website: 'https://gastate.view.usg.edu/d2l/home/2013035'
  course_start_end_dates: June 7 to July 26, 2021
- course_prerequisites:  
  class_meets_when:  Online  
 
 instructor:
@@ -24,11 +23,8 @@ instructor:
    email: jamisoncrawfordgsu@gmail.com
    website_url: 'https://www.rpubs.com/jamisoncrawford'
    github_url: 'https://github.com/jamisoncrawford' 
-   twitter_url: 
-   scholar_url: 
    linked_in_url: https://www.linkedin.com/in/jamisoncrawford
-   office_hours_time: By Appointment
-   office_hours_location:  
+   office_hours_time: See Schedule
    office_hours_app_url: 'https://calendly.com/jamisoncrawford/20min'
    
 
